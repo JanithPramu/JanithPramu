@@ -1,8 +1,7 @@
 # Hi , My name is Janith
 
 # 💫 About Me:
-🔭 I’m currently working on a very secret project<br>👯 I’m looking to collaborate on web-based projects<br>🤝 I’m looking for help with chat API<br>🌱 I’m currently learning Web based application<br>💬 Ask me about anything related to web development, chat integrations, or APIs<br>⚡ Fun fact: I believe learning is fun, especially when coding unlocks new possibilities!
-
+🔭 I’m currently working on a very secret project<br>👯 I’m looking to collaborate on web-based projects<br>🤝 I’m looking for help with chat API<br>🌱 I’m currently learning Web based application<br>💬 Ask me about anything related to web development, chat integrations, or APIs
 
 
 # 💻 Tech Stack:
