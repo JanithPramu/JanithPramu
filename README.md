@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=JanithPramu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <details>
-  <summary><b>⛎ My Pet</b></summary>
+  <summary><b>My Pet</b></summary>
 
 <div align="center">
 <picture>
@@ -34,7 +34,8 @@
 </details>
 
 ---
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=JanithPramu&icon=10&color=1)](https://visitcount.itsvg.in)
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
