@@ -82,13 +82,20 @@
 # 📊 GitHub Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=JanithPramu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
--->
+
 <div align="center">
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JanithPramu&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanithPramu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JanithPramu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JanithPramu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
