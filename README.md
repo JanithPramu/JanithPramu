@@ -49,7 +49,7 @@
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=JanithPramu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=JanithPramu&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JanithPramu&theme=dark&hide_border=false)  &nbsp 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanithPramu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
