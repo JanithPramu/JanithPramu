@@ -1,4 +1,4 @@
- Hi , My name is Janith    
+# Hi , My name is Janith    
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 # 💫 About Me:
 🔭 I’m currently working on a very secret project<br>👯 I’m looking to collaborate on web-based projects<br>🤝 I’m looking for help with chat API<br>🌱 I’m currently learning Web based application<br>💬 Ask me about anything related to web development, chat integrations, or APIs
