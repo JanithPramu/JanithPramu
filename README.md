@@ -52,7 +52,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JanithPramu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanithPramu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<table>
+<table border="0">
   <tr>
     <td>  hi</td>
     <td> j </td>
