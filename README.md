@@ -1,5 +1,6 @@
 # Hi👋, My name is Janith    
 
+<div class="typing">
 <style>
 .typing {
   overflow: hidden;
@@ -16,7 +17,10 @@
   50% { border-color: orange }
 }
 </style>
-<div class="typing">Hi👋, My name is Janith</div>
+  
+Hi👋, My name is Janith
+
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
