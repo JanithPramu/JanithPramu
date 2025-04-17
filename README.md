@@ -41,8 +41,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=JanithPramu&icon=10&color=1)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?JanithPramu=your-github-JanithPramu)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
