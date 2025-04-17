@@ -54,7 +54,11 @@
 
 <table border="0">
   <tr>
-    <td>  hi</td>
+    <td>  
+      
+      ![](https://github-readme-streak-stats.herokuapp.com/?user=JanithPramu&theme=dark&hide_border=false)<br/>
+
+  </td>
     <td> j </td>
    </tr>
    <tr>
