@@ -9,11 +9,12 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
  
 # 💫 About Me:
+<div align="left">
 🔭 I’m currently working on a very secret project<br>
 👯 I’m looking to collaborate on web-based projects<br>
 🤝 I’m looking for help with chat API<br>
 🌱 I’m currently learning Web based application<br>  
-
+</div>
 <!-- 💬 Ask me about anything related to web development, chat integrations, or APIs  -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
