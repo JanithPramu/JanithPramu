@@ -8,25 +8,19 @@
   <tr border="none">
   <td width="50%" align="left">
 
-🔭 I’m currently working on a very secret project<br>
-👯 I’m looking to collaborate on web-based projects<br>
-🤝 I’m looking for help with chat API<br>
-🌱 I’m currently learning Web based application<br>  
-
+  🔭 I’m currently working on a very secret project<br>
+  👯 I’m looking to collaborate on web-based projects<br>
+  🤝 I’m looking for help with chat API<br>
+  🌱 I’m currently learning Web based application<br>  
 
   </td>
-  <td width="50%" align="center">
+    <td width="50%" align="center">
 
    <img align="center" alt="Coding" width="420px" height="270px"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 
   </td>
   </tr>
 </table>
-
-
-
-
-
 
 <!-- 💬 Ask me about anything related to web development, chat integrations, or APIs  -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
