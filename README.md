@@ -6,7 +6,7 @@
 
 <table align="center">
   <tr border="none">
-  <td width="50%" align="left">
+  <td width="60%" align="left">
 
   🔭 I’m currently working on a very secret project<br>
   👯 I’m looking to collaborate on web-based projects<br>
@@ -14,7 +14,7 @@
   🌱 I’m currently learning Web based application<br>  
 
   </td>
-    <td width="50%" align="center">
+    <td width="60%" align="center">
 
    <img align="center" alt="Coding" width="420px" height="270px"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 
