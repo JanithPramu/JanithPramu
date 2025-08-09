@@ -156,6 +156,8 @@
   <img src="https://profile-counter.glitch.me/{JanithPramu}/count.svg" alt="Visitor Count">
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=JanithPramu&label=Profile+Views&color=0e75b6&style=flat)
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
