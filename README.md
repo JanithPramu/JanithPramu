@@ -153,10 +153,8 @@
 
 ### 👀 Visitor count:
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{JanithPramu}/count.svg" alt="Visitor Count">
+   ![Profile views](https://komarev.com/ghpvc/?username=JanithPramu&label=Profile+Views&color=0e75b6&style=flat)
 </div>
-
-![Profile views](https://komarev.com/ghpvc/?username=JanithPramu&label=Profile+Views&color=0e75b6&style=flat)
 
 <br>
 
