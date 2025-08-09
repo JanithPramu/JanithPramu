@@ -3,6 +3,9 @@
   <h1>Hi 👋, I'm Janith</h1>
 </div>
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=435&lines=Hi+👋,+My+name+is+Janith" alt="Typing SVG" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
