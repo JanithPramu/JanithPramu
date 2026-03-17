@@ -147,9 +147,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
-<!-- pet part dacalk -->
+<!-- pet part  -->
 <div align="center">
-  <img src="https://github.com/JanithPramu/JanithPramu/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/dacalk/dacalk/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 <div align="center">
